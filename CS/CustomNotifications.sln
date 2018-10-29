@@ -1,5 +1,7 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomNotifications.Win", "CustomNotifications.Win\CustomNotifications.Win.csproj", "{D79924F6-FDCA-4818-AEAB-80F1D6FB62FE}"
+EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomNotifications.Module", "CustomNotifications.Module\CustomNotifications.Module.csproj", "{20CDD64F-E253-49F7-9CEC-486ED756BE74}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomNotifications.Module.Web", "CustomNotifications.Module.Web\CustomNotifications.Module.Web.csproj", "{66CE90D2-5495-4C1C-9562-F188094674A4}"
@@ -7,8 +9,6 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomNotifications.Web", "CustomNotifications.Web\CustomNotifications.Web.csproj", "{BB508526-746D-4123-A7A8-DF35D5384143}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomNotifications.Module.Win", "CustomNotifications.Module.Win\CustomNotifications.Module.Win.csproj", "{4B3B0DD4-56A2-4760-A189-E2024F98C888}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomNotifications.Win", "CustomNotifications.Win\CustomNotifications.Win.csproj", "{D79924F6-FDCA-4818-AEAB-80F1D6FB62FE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
