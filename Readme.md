@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[CustomNotificationsDbContext.cs](./CS/CustomNotifications.Module/BusinessObjects/CustomNotificationsDbContext.cs) (VB: [CustomNotificationsDbContext.vb](./VB/CustomNotifications.Module/BusinessObjects/CustomNotificationsDbContext.vb))**
+<!-- default file list end -->
 # How to: Use Notifications with a Custom Business Class (Implement ISupportNotifications)
 
 
