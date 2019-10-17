@@ -61,7 +61,7 @@ namespace CustomNotifications.Module.BusinessObjects {
             get { return isPostponed;}
             set { SetProperty<bool>(ref isPostponed, value);}
         }
-        [Browsable(false), NotMapped]
+        [Browsable(false), System.ComponentModel.DataAnnotations.Schema.NotMapped]
         public string NotificationMessage {
             get { return Subject; }
         }
@@ -71,7 +71,7 @@ namespace CustomNotifications.Module.BusinessObjects {
             set { SetProperty<TimeSpan?>(ref remindIn, value); }
         }
        
-        [Browsable(false), NotMapped]
+        [Browsable(false), System.ComponentModel.DataAnnotations.Schema.NotMapped]
         public object UniqueId {
             get { return Id; }
         }
